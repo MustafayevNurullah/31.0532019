@@ -160,6 +160,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Db\31.05.2019.sql" />
     <Content Include="News.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>NewsDb.edmx</DependentUpon>
